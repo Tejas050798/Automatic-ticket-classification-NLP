@@ -19,11 +19,11 @@
 
 ## Conclusions
 - We labelde data into one of the 5 classes using topic modelling.
-  Credit card / Prepaid card
-  Bank account services
-  Theft/Dispute reporting
-  Mortgages/loans
-  Others 
+1) Credit card / Prepaid card
+2) Bank account services
+3) Theft/Dispute reporting
+4) Mortgages/loans
+5) 5) Others 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
@@ -33,9 +33,10 @@
 - numpy - version 1.26.4
 - pandas - version 2.1.4
 - matplotlib - version 3.8.0
-- tensorflow - version 2.17.1
-- keras - version 3.5.0
-
+- sklearn - version 1.2.2
+- NLTK - 3.9.1
+- plotly - 6.0.0
+- spacy - 3.7
 <!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
 
 
