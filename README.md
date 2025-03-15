@@ -19,11 +19,11 @@
 
 ## Conclusions
 - We labelde data into one of the 5 classes using topic modelling.
---Credit card / Prepaid card
---Bank account services
---Theft/Dispute reporting
---Mortgages/loans
---Others 
+  Credit card / Prepaid card
+  Bank account services
+  Theft/Dispute reporting
+  Mortgages/loans
+  Others 
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
